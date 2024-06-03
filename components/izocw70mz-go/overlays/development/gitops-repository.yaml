@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: izocw70mz-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/izocw70mz-go-gitops
